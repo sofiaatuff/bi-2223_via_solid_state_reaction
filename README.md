@@ -25,7 +25,7 @@ Both of these factors can potentially influence the superconducting properties o
 
 ## Visual Representation
 
-![XRD Pattern of Bi-2223](/Users/STUFF/Library/CloudStorage/Dropbox/Mac (2)/Desktop/GitHub/bi-2223/bi-2223_via_solid_state_reaction/xrd_plot.png)
+![XRD Pattern of Bi-2223](output.png)
 
 > **Figure 1**: XRD Pattern of Bi-2223 sample. 
 
